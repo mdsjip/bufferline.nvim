@@ -657,6 +657,7 @@ local function get_defaults()
     get_element_icon = nil,
     show_close_icon = true,
     show_tab_indicators = true,
+    always_show_tab_indicators = false,
     show_duplicate_prefix = true,
     duplicates_across_groups = true,
     enforce_regular_tabs = false,
